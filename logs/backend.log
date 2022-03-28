@@ -1,0 +1,213 @@
+3/20/2022, 5:27:46 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:47:26 PM - DEBUG - auth.service - login with username: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - INFO - Req from: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - ERROR - while finding user 62375ab1f71b232ee472da31 | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:47:45 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - INFO - Req from: admin (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - ERROR - while finding user 62375b35f71b232ee472da33 | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:49:57 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: MNZ2q2crdRDL5nZhJnCAE1dhYFFim9Ah)
+3/20/2022, 6:52:54 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:52:55 PM - INFO - Server is running on port: 3030 
+3/20/2022, 6:55:59 PM - DEBUG - auth.service - login with username: admin (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - INFO - Req from: admin (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:56:12 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: uaHhVegQw3z0tVjqFYK4RyqziowhlTae)
+3/20/2022, 6:59:43 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:00:07 PM - DEBUG - auth.service - login with username: admin (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - INFO - Req from: admin (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:00:15 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: Qi6tC_6cq88hh7In8NkXK85BKGHpkZS0)
+3/20/2022, 7:01:52 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:01:53 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:02:12 PM - DEBUG - auth.service - login with username: admin (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - INFO - Req from: admin (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - ERROR - while finding user undefined | TypeError: Cannot convert undefined or null to object (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:02:20 PM - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: TADJN8bso83bbNVdq5omr2D0_JCioUpX)
+3/20/2022, 7:07:23 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:07:36 PM - DEBUG - auth.service - login with username: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:07:45 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:07:45 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:25 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:26 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:33 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:49 PM - INFO - Req from: admin (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:08:49 PM - DEBUG - Emiting to user socket: undefined (sid: SpHFH10ptowW6FH8GNmv_JwDXeoBkoXn)
+3/20/2022, 7:09:17 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:11:08 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:27:19 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:29:09 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:35:22 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:36:39 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:37:32 PM - DEBUG - auth.service - login with username: admin (sid: z9lXXpPrp52-IdLYjHVHVFWBZOiFfeRF)
+3/20/2022, 7:37:38 PM - INFO - Req from: admin (sid: z9lXXpPrp52-IdLYjHVHVFWBZOiFfeRF)
+3/20/2022, 7:39:15 PM - INFO - Server is running on port: 3030 
+3/20/2022, 7:42:20 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:20:03 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:20:47 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:27:11 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:37:12 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:38:43 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:39:30 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:41:15 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:42:27 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:05 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:47 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:43:50 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:46:57 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:48:34 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:50:51 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:51:41 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:51:59 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:53:02 PM - INFO - Server is running on port: 3030 
+3/20/2022, 8:53:05 PM - ERROR - Cannot get reviews | ReferenceError: logger is not defined (sid: vyXp-ec_ueT_PLT5pYRBsT0ZzlgSg0SY)
+3/20/2022, 8:53:42 PM - INFO - Server is running on port: 3030 
+3/20/2022, 10:58:14 PM - ERROR - while finding user get | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:58:14 PM - ERROR - Failed to get user | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:59:14 PM - ERROR - while finding toy get | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 10:59:14 PM - ERROR - Failed to get toy | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:01:53 PM - DEBUG - auth.service - login with username: admin (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:01:53 PM - ERROR - Failed to Login Invalid username or password (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:04:14 PM - DEBUG - auth.service - signup with username: undefined, fullname: undefined (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:04:14 PM - ERROR - Failed to signup fullname, username and password are required! (sid: uOO8t_atimhZcs4qg-B4Oa3Vv-z2M3Nn)
+3/20/2022, 11:05:29 PM - INFO - Server is running on port: 3030 
+3/20/2022, 11:05:40 PM - INFO - Server is running on port: 3030 
+3/20/2022, 11:05:48 PM - DEBUG - auth.service - signup with username: undefined, fullname: undefined (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:05:48 PM - ERROR - Failed to signup fullname, username and password are required! (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.service - signup with username: admin, fullname: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$wGBmI1MBxxPi3afyhF6hb.d7V2LPmofsZ4zMPpbv9oLJEVKlqZ3DK","fullname":"admin","score":100,"_id":"623797ce04f762623caaa756"} (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:30 PM - DEBUG - auth.service - login with username: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:47 PM - WARN - admin Attempt to perform admin action (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/20/2022, 11:08:54 PM - INFO - Req from: admin (sid: FZ1CPhvTqVm8sjW5oQVpf7cI-Zuq0ZkO)
+3/21/2022, 9:21:13 AM - INFO - Server is running on port: 3030 
+3/21/2022, 12:39:44 PM - DEBUG - auth.service - login with username: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:02 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:19 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:42 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:40:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:50:44 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:52:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:52:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 12:53:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:25 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:25 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:11:43 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:12:48 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:13:37 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:13:37 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:14:23 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:14:23 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:15:12 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:15:12 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:16:07 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:16:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:17:40 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:17:40 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:18:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:18:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:29:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 1:29:20 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:07:49 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:07:49 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:17:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:17:41 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:20:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:20:09 PM - INFO - Req from: admin (sid: eQW0AmzIy-hniujWH6zvPAOmJkw4-pn2)
+3/21/2022, 2:23:56 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:25:15 PM - DEBUG - auth.service - login with username: admin (sid: s-cOfb5iB4I9Pt5f0c8gwmtqreIoGdNv)
+3/21/2022, 2:25:20 PM - INFO - Req from: admin (sid: s-cOfb5iB4I9Pt5f0c8gwmtqreIoGdNv)
+3/21/2022, 2:29:31 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:49 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:29:55 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:01 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:02 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:03 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:04 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:30:04 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:23 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:25 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:25 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:42 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:32:44 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:42 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:34:55 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:56 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:56 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:57 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:34:58 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:35:16 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:36:27 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:45 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:53 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:36:54 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:19 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:38:31 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:32 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:48 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:49 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:50 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:38:51 PM - DEBUG - broadcast to all but user:  |  
+3/21/2022, 2:40:03 PM - INFO - Server is running on port: 3030 
+3/21/2022, 2:41:54 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:37:38 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:39:09 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:40:17 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:40:53 PM - DEBUG - auth.service - login with username: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:05 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:12 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:41:16 PM - INFO - Req from: admin (sid: zvaFNXvbYwLXeRy0brbqoRs2l_JHnecV)
+3/21/2022, 3:45:20 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:47:59 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:49:31 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:50:38 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:56:00 PM - INFO - Server is running on port: 3030 
+3/21/2022, 3:57:54 PM - INFO - Server is running on port: 3030 
+3/21/2022, 4:13:39 PM - DEBUG - auth.service - signup with username: yoni, fullname: Yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:13:40 PM - DEBUG - auth.route - new account created: {"username":"yoni","password":"$2b$10$6gcvRvr3oV50A9I0EKl6p.OR2b6h0Lrke11234Z2wS.K09AcySTk2","fullname":"Yoni","score":100,"_id":"6238881468de5265648d03c1"} (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:13:40 PM - DEBUG - auth.service - login with username: yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/21/2022, 4:14:23 PM - WARN - Yoni Attempt to perform admin action (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)

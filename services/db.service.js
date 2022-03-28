@@ -7,14 +7,17 @@ module.exports = {
 }
 
 // Database Name
-const dbName = 'board_db'
+const dbName = 'mellow'
 
 var dbConn = null
 
 async function getCollection(collectionName) {
     try {
+        console.log('trying to get collection');
         const db = await connect()
+        console.log('connected');
         const collection = await db.collection(collectionName)
+        console.log('got collection');
         return collection
     } catch (err) {
         logger.error('Failed to get Mongo collection', err)
@@ -30,6 +33,7 @@ async function connect() {
         dbConn = db
         return db
     } catch (err) {
+        console.log('cant connect to db');
         logger.error('Cannot Connect to DB', err)
         throw err
     }

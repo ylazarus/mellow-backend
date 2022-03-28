@@ -212,3 +212,79 @@
 3/21/2022, 4:13:40 PM - DEBUG - auth.service - login with username: yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
 3/21/2022, 4:14:23 PM - WARN - Yoni Attempt to perform admin action (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
 3/28/2022, 2:19:06 PM - INFO - Server is running on port: 3030 
+3/28/2022, 2:57:06 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:14:49 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:15:04 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:18:26 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:19:01 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:21:36 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:21:36 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:21:36 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:25:35 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 63qYm_IhaHFx3xtM9x1JlOu7CqY4E8DC)
+3/28/2022, 3:27:30 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:27:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:27:35 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:27:35 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: z00v90wK_C4yiaVkAHTYvRIDZk-6OIjy)
+3/28/2022, 3:28:55 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:28:59 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:28:59 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:28:59 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:30:19 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: 9PnEYpIHL01phrz2jX-G-sWuR1cwQ2Oh)
+3/28/2022, 3:35:27 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:35:31 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:35:31 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:35:31 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: ElIqXlQh9SYWD7d2d1IDTTAO3Vf0dWlu)
+3/28/2022, 3:39:55 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:40:00 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:00 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:00 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:40:47 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:42:27 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:46 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:43:58 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: LEv6NIDOGdFtJkn4KmKlJo2mdmZLlpcF)
+3/28/2022, 3:47:11 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:47:18 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:18 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:18 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: wmvbqSdqWWtCt2sJBWNtXgasenePe931)
+3/28/2022, 3:47:27 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:51:25 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:51:36 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:51:36 PM - ERROR - while finding user Yoni | ReferenceError: logger is not defined (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:51:36 PM - ERROR - Failed to signup ReferenceError: logger is not defined (sid: bgBt3uXe0K7awEPv0If15IMoSxKtophs)
+3/28/2022, 3:52:15 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:56:30 PM - INFO - Server is running on port: 3030 
+3/28/2022, 3:56:35 PM - DEBUG - auth.service - signup with username: Yoni, fullname: Yoni Lazarus (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:56:35 PM - DEBUG - auth.route - new account created: {"username":"Yoni","password":"$2b$10$bDAqcOJPu0DoR1SCKjRL1.rVF1Kwij.9PaArReyH2KUdGaVo7u7E6","fullname":"Yoni Lazarus","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2022-03-27_at_11.02.12_gmtcrl.jpg","mentions":[],"_id":"6241b0830d38d04860549851"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:56:35 PM - DEBUG - auth.service - login with username: Yoni (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:58:44 PM - DEBUG - auth.service - login with username: Yoni (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.service - signup with username: Almog, fullname: Almog Ben-Binyamin (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.route - new account created: {"username":"Almog","password":"$2b$10$5nDcYv/Rxr0T4G32YxEFNubOml4cDHyz1ZgTEH8rbEfGLaOAgmsH.","fullname":"Almog Ben-Binyamin","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2021-12-10_at_16.38.26_sft38h.jpg","mentions":[],"_id":"6241b13b0d38d04860549852"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 3:59:39 PM - DEBUG - auth.service - login with username: Almog (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.service - signup with username: Zviki, fullname: Zviki Zaks (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.route - new account created: {"username":"Zviki","password":"$2b$10$zAMZ.Sf4CRZKTXqfJ0lQaOULyp1f7XWGuYBx/dYBLRfD7WvMgZQW.","fullname":"Zviki Zaks","imgUrl":"https://res.cloudinary.com/cajan22a/image/upload/v1648369158/WhatsApp_Image_2022-03-27_at_11.17.15_rq2ja9.jpg","mentions":[],"_id":"6241b1590d38d04860549853"} (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:00:09 PM - DEBUG - auth.service - login with username: Zviki (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:09:17 PM - INFO - Req from: Zviki Zaks (sid: CKUmnUD0wVWyz3Yb_6nvSWga-_8j-N1m)
+3/28/2022, 4:12:26 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:13:17 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:14:33 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:15:25 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:19:11 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:22:51 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:29:15 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:29:34 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:30:49 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:31:34 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:31:59 PM - INFO - Server is running on port: 3030 
+3/28/2022, 4:32:05 PM - INFO - Server is running on port: 3030 

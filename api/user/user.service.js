@@ -95,6 +95,8 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
+            imgUrl: user?.imgUrl || '',
+            mentions: []
             // img: user.img, // if we want to be able to add user images (perhaps even from webcam)
 
         }

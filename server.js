@@ -8,7 +8,7 @@ const http = require('http').createServer(app)
 
 // Express App Config
 const session = expressSession({
-    secret: 'coding is amazing',
+    secret: 'course is almost over',
     resave: false,
     saveUninitialized: true,
     cookie: { secure: false }
@@ -30,8 +30,7 @@ if (process.env.NODE_ENV === 'production') {
 
 const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
-const reviewRoutes = require('./api/review/review.routes')
-const toyRoutes = require('./api/toy/toy.routes')
+const boardRoutes = require('./api/board/board.routes')
 
 const {connectSockets} = require('./services/socket.service')
 
@@ -41,8 +40,7 @@ app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
-app.use('/api/review', reviewRoutes)
-app.use('/api/toy', toyRoutes)
+app.use('/api/board', boardRoutes)
 connectSockets(http, session)
 
 // Make every server-side-route to match the index.html

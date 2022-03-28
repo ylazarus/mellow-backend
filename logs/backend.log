@@ -211,3 +211,4 @@
 3/21/2022, 4:13:40 PM - DEBUG - auth.route - new account created: {"username":"yoni","password":"$2b$10$6gcvRvr3oV50A9I0EKl6p.OR2b6h0Lrke11234Z2wS.K09AcySTk2","fullname":"Yoni","score":100,"_id":"6238881468de5265648d03c1"} (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
 3/21/2022, 4:13:40 PM - DEBUG - auth.service - login with username: yoni (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
 3/21/2022, 4:14:23 PM - WARN - Yoni Attempt to perform admin action (sid: PNOVjzIJzY3ZQWHY1AWLQrHYLngaSME6)
+3/28/2022, 2:19:06 PM - INFO - Server is running on port: 3030 

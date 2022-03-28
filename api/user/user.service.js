@@ -1,7 +1,6 @@
 
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
-const reviewService = require('../review/review.service')
 const ObjectId = require('mongodb').ObjectId
 
 module.exports = {
@@ -78,7 +77,7 @@ async function update(user) {
             _id: ObjectId(user._id), // needed for the returnd obj
             username: user.username,
             fullname: user.fullname,
-            score: user.score,
+            // img: user.img, // if we want to be able to add user images (perhaps even from webcam)
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
@@ -96,7 +95,8 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            score: 100
+            // img: user.img, // if we want to be able to add user images (perhaps even from webcam)
+
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

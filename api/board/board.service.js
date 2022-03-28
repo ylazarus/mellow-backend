@@ -41,7 +41,8 @@ async function add(board) {
   try {
     const collection = await dbService.getCollection("board")
     const addedBoard = await collection.insertOne(board)
-    return addedBoard
+    board._id = addedBoard.insertedId
+    return board
   } catch (err) {
     logger.error("cannot insert board", err)
     throw err
@@ -49,11 +50,13 @@ async function add(board) {
 }
 async function update(board) {
   try {
+    console.log("updating board")
     var id = ObjectId(board._id)
-    console.log(id);
+    console.log(id)
     delete board._id
     const collection = await dbService.getCollection("board")
     await collection.updateOne({ _id: id }, { $set: { ...board } })
+    board._id = id
     return board
   } catch (err) {
     logger.error(`cannot update board ${boardId}`, err)
@@ -83,7 +86,9 @@ function _buildCriteria(filterBy) {
 function _sort(filteredBoards, sortBy) {
   if (!sortBy) return
   if (sortBy === "time")
-    filteredBoards = filteredBoards.sort((t1, t2) => t1.createdAt - t2.createdAt)
+    filteredBoards = filteredBoards.sort(
+      (t1, t2) => t1.createdAt - t2.createdAt
+    )
   else if (filterBy.sortBy === "price")
     filteredBoards = filteredBoards.sort((t1, t2) => t1.price - t2.price)
   else if (filterBy.sortBy === "name")

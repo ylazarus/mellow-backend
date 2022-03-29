@@ -308,3 +308,22 @@
 3/28/2022, 8:19:24 PM - INFO - Server is running on port: 3030 
 3/28/2022, 8:42:33 PM - INFO - Server is running on port: 3030 
 3/28/2022, 8:43:50 PM - INFO - Server is running on port: 3030 
+3/29/2022, 8:03:44 AM - INFO - Server is running on port: 3030 
+3/29/2022, 8:27:04 AM - DEBUG - auth.service - signup with username: Guest, fullname: Guest User (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:27:05 AM - DEBUG - auth.route - new account created: {"username":"Guest","password":"$2b$10$h0vVUhHjj/1oXFuMaY3Q/.X81Hcrx9St39jDKXfkd1zia7VJ/ECVC","fullname":"Guest User","imgUrl":"","mentions":[],"_id":"624298a9e48762573484a9e5"} (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:27:05 AM - DEBUG - auth.service - login with username: Guest (sid: 8FuGt25aUBkw4ytFcmGaFKO9iXFR62yo)
+3/29/2022, 8:51:05 AM - INFO - Server is running on port: 3030 
+3/29/2022, 8:56:02 AM - DEBUG - auth.service - login with username: Yoni (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:02:44 AM - INFO - Req from: Yoni Lazarus (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:04:05 AM - DEBUG - auth.service - login with username: Guest (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:39:59 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:43:50 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:52:56 AM - DEBUG - auth.service - login with username: Almog (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:52:56 AM - DEBUG - Setting (x8I1pmhj_JnkxugSAAAL) socket.userId = 6241b13b0d38d04860549852 
+3/29/2022, 9:57:45 AM - DEBUG - auth.service - login with username: Guest (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 9:57:45 AM - DEBUG - Setting (MPfCIRVFhwiM-NTLAAAN) socket.userId = 624298a9e48762573484a9e5 
+3/29/2022, 9:58:29 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:21:06 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:24:15 AM - INFO - Req from: Guest User (sid: 1-wNJRlsLKeRVRiXAHSYf9R98_mGZkJb)
+3/29/2022, 10:34:32 AM - INFO - Server is running on port: 3030 
+3/29/2022, 12:18:37 PM - INFO - Server is running on port: 3030 

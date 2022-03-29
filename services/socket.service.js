@@ -14,7 +14,7 @@ function connectSockets(http, session) {
         socket.on('disconnect', socket => {
             console.log('Someone disconnected')
         })
-        socket.on('chat topic', topic => {
+        socket.on('board topic', topic => {
             if (socket.myTopic === topic) return;
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
@@ -22,18 +22,12 @@ function connectSockets(http, session) {
             socket.join(topic)
             socket.myTopic = topic
         })
-        socket.on('chat newMsg', msg => {
-            console.log('Emitting Chat msg', msg);
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat addMsg', msg)
+        socket.on('board updated', () => {
+            console.log('board updated, printed from socket');
+           // emits only to sockets subscribed to the specific board
+            gIo.to(socket.myTopic).emit('someone updated')
         })
-        socket.on('user typing', fullname => {
-            gIo.to(socket.myTopic).emit('now typing', fullname)
-            // broadcast('now typing', fullname, socket.myTopic)
-        })
-        socket.on('user-watch', userId => {
+               socket.on('user-watch', userId => {
             socket.join('watching:' + userId)
         })
         socket.on('set-user-socket', userId => {

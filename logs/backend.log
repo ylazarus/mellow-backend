@@ -510,6 +510,7 @@
 3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
 3/31/2022, 5:34:10 PM - INFO - Server is running on port: 3030 
 3/31/2022, 7:02:29 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
 1.4.2022, 9:46:08 - INFO - Server is running on port: 3030 
 1.4.2022, 9:49:30 - DEBUG - auth.service - login with username: zviki (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
 1.4.2022, 9:49:30 - ERROR - Failed to Login Invalid username or password (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
@@ -623,3 +624,112 @@
 3.4.2022, 19:02:50 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
 3.4.2022, 22:40:08 - INFO - Server is running on port: 3030 
 3.4.2022, 22:45:35 - INFO - Server is running on port: 3030 
+=======
+3/31/2022, 10:45:33 PM - INFO - Server is running on port: 3030 
+4/1/2022, 8:50:04 AM - INFO - Server is running on port: 3030 
+4/1/2022, 9:44:08 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:08 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:44:17 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: CzvrBTviKx1mE43hmw3Vrkri4RwoY10o)
+4/1/2022, 9:53:56 AM - INFO - Server is running on port: 3030 
+4/1/2022, 9:54:12 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:12 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - while finding board login | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:31 AM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:44 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:54:44 AM - DEBUG - Setting (dmytILcw_lK8hFlaAAAF) socket.userId = 624477745c65423118015918 
+4/1/2022, 9:55:53 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:57:37 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:12 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:25 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:42 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 9:58:42 AM - DEBUG - Setting (HBz1AS_jynVZ_xfmAAAN) socket.userId = 624477745c65423118015918 
+4/1/2022, 9:59:01 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:02:45 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:03:07 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:03:07 AM - DEBUG - Setting (S3J9zg3d4APOHH8jAAAR) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:04:35 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:04:35 AM - DEBUG - Setting (S3J9zg3d4APOHH8jAAAR) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:07:11 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:08:41 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:08:41 AM - DEBUG - Setting (3saMJAbIgAV7lQwhAAAT) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:10:34 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:10:34 AM - DEBUG - Setting (3saMJAbIgAV7lQwhAAAT) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:13:08 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:08 AM - DEBUG - Setting (EP--a9yI7r3YKFyOAAAV) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:13:14 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:47 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:13:47 AM - DEBUG - Setting (IgP6zEBlHFEYQuagAAAZ) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:14:58 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:14:58 AM - DEBUG - Setting (IgP6zEBlHFEYQuagAAAZ) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:15:02 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:15:58 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:15:58 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:17:48 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:17:48 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:19:57 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:19:57 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:20:43 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:20:43 AM - DEBUG - Setting (Gy3n0fC_Z9NTyilZAAAb) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:23:05 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:33:05 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:33:05 AM - DEBUG - Setting (kyAgI70bM-rgr47iAAAd) socket.userId = 624477745c65423118015918 
+4/1/2022, 10:35:07 AM - DEBUG - auth.service - login with username: Yoni (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 10:35:07 AM - DEBUG - Setting (kyAgI70bM-rgr47iAAAd) socket.userId = 624477745c65423118015918 
+4/1/2022, 11:01:31 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 11:25:34 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 11:35:39 AM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:11:42 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:29:24 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 12:59:06 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:41:03 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:49:35 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:53:49 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 1:57:29 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:09:38 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:09:44 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:10:04 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:12:58 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 2:45:15 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:09:01 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:52:52 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 3:59:15 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:23:55 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:43:46 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:44:41 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:44:53 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:46:43 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:49:56 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:54:55 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:55:49 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/1/2022, 4:57:12 PM - INFO - Req from: Yoni Lazarus (sid: qQ7lNMfof4O9z-jPs5cD4UxToKdsvE6v)
+4/2/2022, 7:51:52 PM - INFO - Server is running on port: 3030 
+4/2/2022, 9:19:22 PM - DEBUG - auth.service - login with username: Almog (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 9:19:22 PM - DEBUG - Setting (YgBrfg1RzrhsB2vgAAAd) socket.userId = 6246dc17a9952cc771cd056d 
+4/2/2022, 9:26:07 PM - DEBUG - auth.service - login with username: Zviki (sid: qHWvPYUzhlzOYzw9GNxIHW9k59WC3TOA)
+4/2/2022, 9:26:07 PM - DEBUG - Setting (Nhjy-HwpT0eLUdbMAAAb) socket.userId = 6246dc3fa9952cc771cd056e 
+4/2/2022, 9:45:12 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 9:45:25 PM - INFO - Req from: Zviki Zaks (sid: qHWvPYUzhlzOYzw9GNxIHW9k59WC3TOA)
+4/2/2022, 10:11:06 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:11:31 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:13:44 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:13:53 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:21:13 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:24:39 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:37 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:43 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:29:52 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:40:07 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:45:30 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:46:28 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:46:54 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:47:14 PM - INFO - Req from: Almog Ben-Binyamin (sid: PKBCRUCUEhtkVper05Y5a_VH7RFJb78c)
+4/2/2022, 10:49:14 PM - INFO - Server is running on port: 3030 
+>>>>>>> 2434bcf1086c2c726209bc443dc38984f34eb55c
+3.4.2022, 23:06:46 - INFO - Server is running on port: 3030 

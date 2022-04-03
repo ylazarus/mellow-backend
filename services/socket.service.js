@@ -24,10 +24,11 @@ function connectSockets(http, session) {
         })
         socket.on('board updated', () => {
             console.log('board updated, printed from socket');
-           // emits only to sockets subscribed to the specific board
-            gIo.to(socket.myTopic).emit('someone updated')
+            // emits only to sockets subscribed to the specific board
+            // gIo.to(socket.myTopic).emit('someone updated')
+            socket.broadcast.to(socket.myTopic).emit('someone updated')
         })
-               socket.on('user-watch', userId => {
+        socket.on('user-watch', userId => {
             socket.join('watching:' + userId)
         })
         socket.on('set-user-socket', userId => {

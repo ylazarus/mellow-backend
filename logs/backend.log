@@ -510,3 +510,116 @@
 3/31/2022, 1:27:22 PM - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: WNcBOMsFu-IJ33LtHsdc_LAw9FpSAdOD)
 3/31/2022, 5:34:10 PM - INFO - Server is running on port: 3030 
 3/31/2022, 7:02:29 PM - INFO - Server is running on port: 3030 
+1.4.2022, 9:46:08 - INFO - Server is running on port: 3030 
+1.4.2022, 9:49:30 - DEBUG - auth.service - login with username: zviki (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:49:30 - ERROR - Failed to Login Invalid username or password (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.service - signup with username: zviki, fullname: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.route - new account created: {"username":"zviki","password":"$2b$10$FnlQo6FR8d2VLNVaJtY9WeoMpgQcd69fN/5meq/uVPc8unDKvbuWK","fullname":"Zviki Zaks","imgUrl":"","mentions":[],"_id":"6246a101686e395f1e748ece"} (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:51:45 - DEBUG - auth.service - login with username: zviki (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:53:05 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 9:55:12 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:21:22 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:21:30 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:23:54 - INFO - Req from: Zviki Zaks (sid: t8N-89MZI2LcrQkOW5-25I0qvvDlu-v-)
+1.4.2022, 10:26:52 - INFO - Server is running on port: 3030 
+1.4.2022, 10:27:51 - INFO - Server is running on port: 3030 
+1.4.2022, 17:05:37 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:37 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:38 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:38 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:41 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:41 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:42 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:43 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:44 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - DEBUG - auth.service - login with username: zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:45 - ERROR - Failed to Login Invalid username or password (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:53 - DEBUG - auth.service - login with username: Zviki (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:05:53 - DEBUG - Setting (KnPQo1bRpgWo3vUfAAA_) socket.userId = 6246dc3fa9952cc771cd056e 
+1.4.2022, 17:09:07 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:17:05 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+1.4.2022, 17:19:06 - INFO - Req from: Zviki Zaks (sid: 9YHZuHq6pb6kajlkt7G1LwANY5vYvgbR)
+2.4.2022, 20:45:42 - INFO - Server is running on port: 3030 
+2.4.2022, 22:46:25 - INFO - Server is running on port: 3030 
+2.4.2022, 22:47:44 - INFO - Server is running on port: 3030 
+2.4.2022, 22:50:28 - INFO - Server is running on port: 3030 
+2.4.2022, 22:51:49 - INFO - Server is running on port: 3030 
+2.4.2022, 22:52:22 - INFO - Server is running on port: 3030 
+3.4.2022, 1:12:17 - DEBUG - auth.service - login with username: Zviki (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:12:17 - DEBUG - Setting (mYbISDXdaThJoQzzAABV) socket.userId = 6246dc3fa9952cc771cd056e 
+3.4.2022, 1:16:43 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:22:10 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:25:05 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 1:56:14 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 2:01:17 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 2:02:31 - INFO - Req from: Zviki Zaks (sid: UTl1-RVMpg-HqMLFPpiMfHQ-QQWtpT7o)
+3.4.2022, 9:17:47 - INFO - Server is running on port: 3030 
+3.4.2022, 12:49:58 - DEBUG - auth.service - login with username: Almog (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:49:58 - DEBUG - Setting (9CW_XMPCly7kD1-6AAAJ) socket.userId = 6246dc17a9952cc771cd056d 
+3.4.2022, 12:54:26 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:55:00 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:56:20 - DEBUG - auth.service - login with username: Zviki (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 12:56:20 - DEBUG - Setting (0UwRbYE8to22rFy1AAAH) socket.userId = 6246dc3fa9952cc771cd056e 
+3.4.2022, 12:56:33 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 12:58:30 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:01 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:01:03 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:26 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:01:26 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:05:27 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:05:30 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:05:42 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:05:43 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:08:38 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:08:41 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:09:49 - INFO - Req from: Almog Ben-Binyamin (sid: _hkh9cIbz0vpEQKnPlPtP7I0Na1PkuMZ)
+3.4.2022, 13:09:49 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:51:11 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 13:52:56 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 16:46:39 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:39:40 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:41:26 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:55:06 - INFO - Req from: Zviki Zaks (sid: e-lN_NgoeGDwmVy_DvVT9Rp9tO0429PN)
+3.4.2022, 17:58:05 - INFO - Server is running on port: 3030 
+3.4.2022, 17:59:23 - INFO - Server is running on port: 3030 
+3.4.2022, 18:00:29 - INFO - Server is running on port: 3030 
+3.4.2022, 18:02:02 - INFO - Server is running on port: 3030 
+3.4.2022, 18:03:40 - INFO - Server is running on port: 3030 
+3.4.2022, 18:29:38 - INFO - Server is running on port: 3030 
+3.4.2022, 18:31:00 - INFO - Server is running on port: 3030 
+3.4.2022, 18:51:20 - INFO - Server is running on port: 3030 
+3.4.2022, 18:52:54 - INFO - Server is running on port: 3030 
+3.4.2022, 18:55:48 - INFO - Server is running on port: 3030 
+3.4.2022, 19:02:22 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:22 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:24 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:24 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:49 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:49 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:50 - ERROR - while finding board undefined | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 19:02:50 - ERROR - Failed to get board | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer (sid: 7H1bupVVBs3xO26lf9lbtPtJWC_9DbQh)
+3.4.2022, 22:40:08 - INFO - Server is running on port: 3030 
+3.4.2022, 22:45:35 - INFO - Server is running on port: 3030 
